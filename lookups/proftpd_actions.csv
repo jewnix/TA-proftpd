@@ -1,0 +1,4 @@
+vendor_action,action
+successful,success
+no such user,failure
+failed,failure

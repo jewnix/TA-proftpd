@@ -1,0 +1,24 @@
+[]
+access = read : [ * ], write : [ admin, power ]
+
+[tags]
+export = system
+
+[props]
+export = system
+
+[transforms]
+export = system
+
+[eventtypes]
+export = system
+
+[macros]
+export = system
+
+[lookups]
+export = system
+
+[app/install/state]
+version = 6.3.0
+modtime = 1446760638.133086000
